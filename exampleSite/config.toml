@@ -98,10 +98,10 @@ mobile = "0124857985320"
 email = "demo@email.com"
 location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2020 [Sitiando](https://sitiando.com) Todos los derechos reservados|"
 # Snipcart Credentials
-snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
-currencySymbol = "$"
+snipcartApiKey = "ZWRlYjI3MmQtZmMyYS00MmFkLTgyNzUtNjM0ODUzMmNhOTg4NjM3NDQ2MDg3NTI3MDMxMDA0"
+currencySymbol = "Gs."
 
   # Preloader
   [params.preloader]
