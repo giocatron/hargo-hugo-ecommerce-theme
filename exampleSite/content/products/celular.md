@@ -1,14 +1,12 @@
 +++
 date = 2019-10-17T05:22:16Z
-description = "For Glowing Skin"
+description = "gris"
 draft = true
 price = "20.00"
 priceBefore = "25.00"
 productID = "9"
 shortDescription = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
 title = "celular"
-[[images]]
-image = "images/products/product-6.png"
 [[images]]
 image = "images/products/product-2.png"
 [[images]]
