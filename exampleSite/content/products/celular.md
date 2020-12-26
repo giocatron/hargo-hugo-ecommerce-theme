@@ -7,6 +7,8 @@ productID = "9"
 shortDescription = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
 title = "celular"
 [[images]]
+image = "images/products/iphone2.jpg"
+[[images]]
 image = "images/products/product-2.png"
 [[images]]
 image = "images/products/product-3.png"
